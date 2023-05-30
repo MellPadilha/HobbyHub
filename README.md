@@ -18,9 +18,6 @@ Welcome to HobbyHub, the app that connects people who share the same hobbies. Wh
 ## Contributing ✏
 Contributions are welcome! If you have any ideas for new features or want to report issues, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact 📩
 If you have any questions or suggestions, feel free to reach out to me at [mellanie.padilha@gmail.com](mailto:mellanie.padilha@gmail.com).
 
