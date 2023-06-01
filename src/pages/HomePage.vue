@@ -1,7 +1,13 @@
 <template>
-  <div></div>
+  <div>HIIIIII</div>
 </template>
 
-<script></script>
+<script>
+import { defineComponent } from "vue";
 
-<style scoped="scss"></style>
+export default defineComponent({
+  name: "HomePage",
+});
+</script>
+
+<style lang="scss" scoped></style>
